@@ -14,6 +14,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 
 
 ###  Key Learnings from Week 0
+- We learned and got the overview about the whole course of 20 weeks and had an inaugration call by Kunal sir.
 - In the first video we had overview about Modelling, Testbench, RTL Architect and overview about Physical Design Flow.
 - Concluded the discussion with overview of peripherals.
 - Installed and verified **open-source EDA tools** successfully.  
