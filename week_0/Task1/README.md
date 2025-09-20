@@ -14,18 +14,14 @@ This repository documents my **week-by-week progress** with tasks inside each we
 
 
 ###  Key Learnings from Week 0
+- In the first video we had overview about Modelling, Testbench, RTL Architect and overview about Physical Design Flow.
+- Concluded the discussion with overview of peripherals.
 - Installed and verified **open-source EDA tools** successfully.  
 - Learned about **basic environment setup** for RTL design and synthesis.  
 - Prepared the system for upcoming **RTL → GDSII flow experiments**.
-- in the flow we had overview about modelling Testbench RTL Architect and overview about Physical Design Flow.
-- Concluded the discussion with overview of peripherals.
 
 
-##  Acknowledgment  
 
-I am thankful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** for the opportunity to participate in the ongoing **RISC-V SoC Tapeout Program**.  
-
-I also acknowledge the support of **RISC-V International**, **India Semiconductor Mission (ISM)**, **VLSI Society of India (VSI)**, and [**Efabless**](https://github.com/efabless) for making this initiative possible.  
 
 
 
